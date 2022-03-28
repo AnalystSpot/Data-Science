@@ -38,3 +38,5 @@ Based on the combination of these 4 features, Fisher developed a linear discrimi
 * SSE /WCSS : Sum of Squared error / Within Cluster Sum of Squares error
 <h3 align='center'>Sum of Squares Error or Within Cluster Sum of Squares error</h3>
 <img src='within cluster sum of squares.png' title='within cluster sum of squares'/>
+
+<img src='iris petal classification.png'/><img src='iris sepal classification.png'/>
