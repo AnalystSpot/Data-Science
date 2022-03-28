@@ -1,6 +1,9 @@
 # Predicting student marks using Machine learning
 <li>To predict the marks a student scores based on the number of study hours. 
 
+## Training Dataset : 
+  <a href='https://github.com/AnalystSpot/Data-Science'>Student Score</a>
+  
 ## Use :
   <li>Early prediction of students performance can help decision makers to provide the needed actions at the right moment, and to plan the appropriate training in order to improve the students success rate.
 
