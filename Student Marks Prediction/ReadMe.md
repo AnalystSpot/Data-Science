@@ -12,3 +12,6 @@
 2. Visualize
 3. Model creation
 4. Predict
+
+<br/>
+<img src='simple-linear-regression.png'/>
