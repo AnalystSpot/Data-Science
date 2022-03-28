@@ -25,7 +25,7 @@ Based on the combination of these 4 features, Fisher developed a linear discrimi
 
 <img src='iris.png' title='Iris Classification'/>
 
-<img src='iris features & labels.png' title='Iris Features & Lables/>
+<img src='iris features & labels.png' title='Iris Features & Lables'/>
 
 ## Steps used :
 1. Import
