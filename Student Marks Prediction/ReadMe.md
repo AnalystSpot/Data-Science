@@ -16,5 +16,7 @@
 3. Model creation
 4. Predict
 
-<br/>
+     <h1 align='center'>Simple Linear Regression</h1>
 <img src='simple-linear-regression.png'/>
+
+<h2>Note : Fork the repository to review whenever you want.</h2>
