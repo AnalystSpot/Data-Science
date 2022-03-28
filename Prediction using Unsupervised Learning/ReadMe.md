@@ -23,8 +23,10 @@ Based on the combination of these 4 features, Fisher developed a linear discrimi
 
 <a href='https://en.wikipedia.org/wiki/Iris_flower_data_set'>Know more...</a>
 
+<h3 align='center'>Iris Classification</h3>
 <img src='iris1.png' title='Iris Classification'/>
 
+<h3 align='center'>Iris Features & Labels</h3>
 <img src='iris features & labels.png' title='Iris Features & Lables'/>
 
 ## Steps used :
