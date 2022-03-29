@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Superstore data on Retail business.
+# Exploratory Data Analysis on Superstore data or Retail business.
 ## Tasks :
 - Perform Exploratory Data Analysis(EDA) on SampleSuperstore Dataset.
 - As a Business Manager, try to find out weak area where you can work to make more profit.
@@ -6,3 +6,7 @@
 
 ## Dataset :
  <a href='SampleSuperstore.csv'>Sample Superstore</a>
+
+
+# Tableau Story :
+<a href='https://public.tableau.com/views/Book1_16331695199590/Story1?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link'>Link to Tableau Storyboard</a>
