@@ -12,6 +12,6 @@
 
 # Tableau Story :
 <a href='https://public.tableau.com/views/Book1_16331695199590/Story1?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link'>Link to Tableau Storyboard</a>
-# DO follow me on Tableau : <a href='https://public.tableau.com/app/profile/4champ16'>B M Suhaib</a>
+# DO follow me on Tableau : <a href='https://public.tableau.com/app/profile/analystspot'>B M Suhaib</a>
 
 # Note : Do fork the repository to get regular updates and save in your repository.
