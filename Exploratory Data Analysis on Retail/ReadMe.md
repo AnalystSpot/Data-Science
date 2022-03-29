@@ -11,8 +11,8 @@
 # Stay tuned
 
 # Tableau Story :
-<a href='https://public.tableau.com/app/profile/analystspot/viz/Book1_16331695199590/Story1'>Click here to go ot tableau.</a>
-<a href='https://public.tableau.com/shared/ZQ5SB7CF9?:display_count=n&:origin=viz_share_link'>Link to Tableau Storyboard</a>
-# DO follow me on Tableau : <a href='https://public.tableau.com/app/profile/analystspot'>B M Suhaib</a>
+- <a href='https://public.tableau.com/app/profile/analystspot/viz/Book1_16331695199590/Story1'>Click here to go ot tableau.</a><br/>
+- <a href='https://public.tableau.com/shared/ZQ5SB7CF9?:display_count=n&:origin=viz_share_link'>Link to Tableau Storyboard</a>
+- ### DO follow me on Tableau : <a href='https://public.tableau.com/app/profile/analystspot'>B M Suhaib</a>
 
 # Note : Do fork the repository to get regular updates and save in your repository.
