@@ -1,5 +1,6 @@
 # Predicting student marks using Machine learning
  ### Project Level : Beginner
+ <li>Predict the percentage of students based on number of study hours
 <li>To predict the marks a student scores based on the number of study hours. 
 <li>What will be the predicted score if a student studies for 9.25 hrs/day?
  
