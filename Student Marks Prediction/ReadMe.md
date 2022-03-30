@@ -1,7 +1,8 @@
 # Predicting student marks using Machine learning
  ### Project Level : Beginner
 <li>To predict the marks a student scores based on the number of study hours. 
-
+<li>What will be the predicted score if a student studies for 9.25 hrs/day?
+ 
 ## Training Dataset : 
   <a href='https://github.com/AnalystSpot/Data-Science'>Student Score</a>
   
