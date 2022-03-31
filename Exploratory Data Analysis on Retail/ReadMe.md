@@ -16,4 +16,4 @@
 - ### DO follow me on Tableau : <a href='https://public.tableau.com/app/profile/analystspot'>B M Suhaib</a>
 
 ### Note : Do fork the repository to get regular updates and save in your repository.
-### DO subscribe my AnalystSpot Youtube channel to get to know how the code works & Explanation for Storyboard.
+### DO subscribe my AnalystSpot Youtube channel to get to know how the code works & Explanation of Storyboard.
