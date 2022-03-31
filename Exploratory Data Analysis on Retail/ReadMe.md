@@ -7,7 +7,7 @@
 ## Dataset :
  <a href='SampleSuperstore.csv'>Sample Superstore</a>
 
-# Working on coding. Will be added soon..... 
+# Will be updating the code. 
 # Stay tuned
 
 # Tableau Story :
@@ -15,4 +15,5 @@
 - <a href='https://public.tableau.com/shared/ZQ5SB7CF9?:display_count=n&:origin=viz_share_link'>Link to Tableau Storyboard</a>
 - ### DO follow me on Tableau : <a href='https://public.tableau.com/app/profile/analystspot'>B M Suhaib</a>
 
-# Note : Do fork the repository to get regular updates and save in your repository.
+### Note : Do fork the repository to get regular updates and save in your repository.
+### DO subscribe my AnalystSpot Youtube channel to get to know how the code works & Explanation for Storyboard.
