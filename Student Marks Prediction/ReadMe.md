@@ -19,7 +19,9 @@
 3. Model creation
 4. Predict
 
-     <h1 align='center'>Simple Linear Regression</h1>
+## Youtube explanation Link : https://www.youtube.com/watch?v=_rhDEoXktuw
+ 
+ <h1 align='center'>Simple Linear Regression</h1>
 <img src='simple-linear-regression.png'/>
 
 <h2>Note : Fork the repository to review whenever you want.</h2>
