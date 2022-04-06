@@ -42,3 +42,7 @@ Based on the combination of these 4 features, Fisher developed a linear discrimi
 
 <img src='iris petal classification.png'/>
 <img src='iris sepal classification.png'/>
+
+### Code explanation link : https://www.youtube.com/watch?v=GTokW0zh2Sk
+#### Do like and subscribe for more...
+#### Also do fork the repo.
