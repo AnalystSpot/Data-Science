@@ -16,7 +16,7 @@
 - ### DO follow me on Tableau : <a href='https://public.tableau.com/app/profile/analystspot'>B M Suhaib</a>
 
 ## Youtube Link :
-- <a href='https://youtu.be/hqJD97Gn91U' target='blank_'>For Youtube Explanation Click here....</a>
+- <a href='https://youtu.be/hqJD97Gn91U' target='blank'>For Youtube Explanation Click here....</a>
 
 ### Note : Do fork the repository to get regular updates and save in your repository.
 ### DO subscribe my AnalystSpot Youtube channel to get to know how the code works & Explanation of Storyboard.
