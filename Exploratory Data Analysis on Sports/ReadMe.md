@@ -17,7 +17,7 @@
 ### code & dataset csv file available @ github - AnalystSpot : 
 > https://github.com/AnalystSpot/Data-Science/tree/main/Exploratory%20Data%20Analysis%20on%20Sports
 
-### Tableau Dashboard or Storyboard Link will be updated shortly: 
+### Tableau Dashboard or Storyboard Link: 
 > https://public.tableau.com/app/profile/analystspot/
 
 <h3 color='red'>Note : Do fork AnalystSpot Github repository to review @ anytime</h3>
